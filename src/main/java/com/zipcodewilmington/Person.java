@@ -14,6 +14,7 @@ public class Person {
 
     // why is this called a GETTER??
     public String getFirstName() {
+
         return firstName;
     }
 
